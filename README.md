@@ -13,7 +13,7 @@
 
 ---
 
-## 🇬🇧 Overview
+## Overview
 
 This frontend template is designed to quickly kickstart modern React projects with Vite and TypeScript.  
 It comes pre-configured with all essential libraries and setup for smooth, performant, and maintainable development.  
